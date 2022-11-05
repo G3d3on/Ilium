@@ -1,0 +1,113 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container {
+    padding: 2em;
+}
+
+#container h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#sub1 #form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#form label {
+    padding: 0.5em;
+    font-size: 1.6em;
+}
+
+#form select {
+    padding: 0.5em;
+    margin: 0.5em 0 0.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+#form button {
+    padding: 0.5em;
+    font-size: 1.2em;
+    border-radius: 10px;
+}
+
+#container #sub2 {
+    display: flex;
+    padding: 2em;
+}
+
+#sub2 .sub2-div {
+    flex: 1;
+    text-align: center;
+}
+
+.sub2-div .table {
+    border: 4px solid black ;
+    text-align: justify;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+.table thead tr th {
+    padding: 0.5em;
+    text-align: center;
+}
+
+.table thead tr #second-th {
+    font-size: 1.3em;
+}
+
+.table tbody tr .ridings {
+    font-weight: bold;
+    text-align: justify;
+    text-transform: uppercase;
+}
+
+.table tbody tr .horses {
+    font-weight: bold;
+    text-align: justify;
+}
+
+.table tbody tr td {
+    border-top: 4px solid black;
+    border-bottom: 4px solid black;
+    padding: 0.5em;
+    text-align: center;
+}
+
+#riding-container {
+    text-align: center;
+    padding: 2em;
+    font-size: 1.5em;
+}
+
+#table-riding {
+    border: 4px solid black ;
+    text-align: justify;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+#table-riding thead tr th {
+    border: 4px solid black;
+    padding: 0.5em;
+}
+
+#table-riding tbody tr td {
+    border: 4px solid black;
+    padding: 0.5em;
+}
+
+.sub2-div p {
+    font-size: 1.5em;
+}

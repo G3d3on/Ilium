@@ -1,0 +1,499 @@
+{
+    "riding": [
+        {
+            "name": "riding_12_0",
+            "result": [
+                {
+                    "horse": "Gripoil",
+                    "position": 1,
+                    "temps": "0"
+                },
+                {
+                    "horse": "Spirit",
+                    "position": 2,
+                    "temps": 0.2852
+                },
+                {
+                    "horse": "Seabiscuit",
+                    "position": 3,
+                    "temps": 1.1938
+                },
+                {
+                    "horse": "Yakari",
+                    "position": 4,
+                    "temps": 1.9632
+                },
+                {
+                    "horse": "Prince Noir",
+                    "position": 5,
+                    "temps": 2.2649
+                },
+                {
+                    "horse": "Philosophy",
+                    "position": 6,
+                    "temps": 2.8797
+                },
+                {
+                    "horse": "Tornado",
+                    "position": 7,
+                    "temps": 3.192
+                },
+                {
+                    "horse": "Jappeloup",
+                    "position": 8,
+                    "temps": 3.756
+                },
+                {
+                    "horse": "Flicka",
+                    "position": 9,
+                    "temps": 3.9781
+                },
+                {
+                    "horse": "Hidalgo",
+                    "position": 10,
+                    "temps": 4.7403
+                }
+            ]
+        },
+        {
+            "name": "riding_12_1",
+            "result": [
+                {
+                    "horse": "Hidalgo",
+                    "position": 1,
+                    "temps": "0"
+                },
+                {
+                    "horse": "Seabiscuit",
+                    "position": 2,
+                    "temps": 0.5138
+                },
+                {
+                    "horse": "Gripoil",
+                    "position": 3,
+                    "temps": 1.4795
+                },
+                {
+                    "horse": "Yakari",
+                    "position": 4,
+                    "temps": 2.1594
+                },
+                {
+                    "horse": "Philosophy",
+                    "position": 5,
+                    "temps": 2.3591
+                },
+                {
+                    "horse": "Spirit",
+                    "position": 6,
+                    "temps": 2.8808
+                },
+                {
+                    "horse": "Jappeloup",
+                    "position": 7,
+                    "temps": 3.3272
+                },
+                {
+                    "horse": "Flicka",
+                    "position": 8,
+                    "temps": 3.3444
+                },
+                {
+                    "horse": "Tornado",
+                    "position": 9,
+                    "temps": 3.4291
+                },
+                {
+                    "horse": "Prince Noir",
+                    "position": 10,
+                    "temps": 3.4866
+                }
+            ]
+        },
+        {
+            "name": "riding_12_2",
+            "result": [
+                {
+                    "horse": "Seabiscuit",
+                    "position": 1,
+                    "temps": "0"
+                },
+                {
+                    "horse": "Philosophy",
+                    "position": 2,
+                    "temps": 0.0246
+                },
+                {
+                    "horse": "Yakari",
+                    "position": 3,
+                    "temps": 0.6354
+                },
+                {
+                    "horse": "Prince Noir",
+                    "position": 4,
+                    "temps": 0.7256
+                },
+                {
+                    "horse": "Tornado",
+                    "position": 5,
+                    "temps": 1.3803
+                },
+                {
+                    "horse": "Flicka",
+                    "position": 6,
+                    "temps": 2.2755
+                },
+                {
+                    "horse": "Gripoil",
+                    "position": 7,
+                    "temps": 2.988
+                },
+                {
+                    "horse": "Hidalgo",
+                    "position": 8,
+                    "temps": 3.8078
+                },
+                {
+                    "horse": "Spirit",
+                    "position": 9,
+                    "temps": 4.4729
+                },
+                {
+                    "horse": "Jappeloup",
+                    "position": 10,
+                    "temps": 4.7659
+                }
+            ]
+        },
+        {
+            "name": "riding_12_3",
+            "result": [
+                {
+                    "horse": "Philosophy",
+                    "position": 1,
+                    "temps": "0"
+                },
+                {
+                    "horse": "Jappeloup",
+                    "position": 2,
+                    "temps": 0.6018
+                },
+                {
+                    "horse": "Flicka",
+                    "position": 3,
+                    "temps": 1.2691
+                },
+                {
+                    "horse": "Yakari",
+                    "position": 4,
+                    "temps": 1.3516
+                },
+                {
+                    "horse": "Hidalgo",
+                    "position": 5,
+                    "temps": 1.5534
+                },
+                {
+                    "horse": "Tornado",
+                    "position": 6,
+                    "temps": 1.562
+                },
+                {
+                    "horse": "Seabiscuit",
+                    "position": 7,
+                    "temps": 1.5806
+                },
+                {
+                    "horse": "Prince Noir",
+                    "position": 8,
+                    "temps": 2.0454
+                },
+                {
+                    "horse": "Gripoil",
+                    "position": 9,
+                    "temps": 2.5504
+                },
+                {
+                    "horse": "Spirit",
+                    "position": 10,
+                    "temps": 3.3978
+                }
+            ]
+        },
+        {
+            "name": "riding_12_4",
+            "result": [
+                {
+                    "horse": "Yakari",
+                    "position": 1,
+                    "temps": "0"
+                },
+                {
+                    "horse": "Seabiscuit",
+                    "position": 2,
+                    "temps": 0.317
+                },
+                {
+                    "horse": "Prince Noir",
+                    "position": 3,
+                    "temps": 1.1487
+                },
+                {
+                    "horse": "Spirit",
+                    "position": 4,
+                    "temps": 1.5542
+                },
+                {
+                    "horse": "Jappeloup",
+                    "position": 5,
+                    "temps": 2.4807
+                },
+                {
+                    "horse": "Hidalgo",
+                    "position": 6,
+                    "temps": 2.6183
+                },
+                {
+                    "horse": "Flicka",
+                    "position": 7,
+                    "temps": 2.812
+                },
+                {
+                    "horse": "Philosophy",
+                    "position": 8,
+                    "temps": 3.4403
+                },
+                {
+                    "horse": "Tornado",
+                    "position": 9,
+                    "temps": 3.6196
+                },
+                {
+                    "horse": "Gripoil",
+                    "position": 10,
+                    "temps": 4.3478
+                }
+            ]
+        },
+        {
+            "name": "riding_12_5",
+            "result": [
+                {
+                    "horse": "Hidalgo",
+                    "position": 1,
+                    "temps": "0"
+                },
+                {
+                    "horse": "Gripoil",
+                    "position": 2,
+                    "temps": 0.3134
+                },
+                {
+                    "horse": "Prince Noir",
+                    "position": 3,
+                    "temps": 0.7535
+                },
+                {
+                    "horse": "Seabiscuit",
+                    "position": 4,
+                    "temps": 1.1579
+                },
+                {
+                    "horse": "Philosophy",
+                    "position": 5,
+                    "temps": 1.7585
+                },
+                {
+                    "horse": "Yakari",
+                    "position": 6,
+                    "temps": 1.8503
+                },
+                {
+                    "horse": "Spirit",
+                    "position": 7,
+                    "temps": 2.2188
+                },
+                {
+                    "horse": "Jappeloup",
+                    "position": 8,
+                    "temps": 2.454
+                },
+                {
+                    "horse": "Flicka",
+                    "position": 9,
+                    "temps": 2.9565
+                },
+                {
+                    "horse": "Tornado",
+                    "position": 10,
+                    "temps": 3.3294
+                }
+            ]
+        },
+        {
+            "name": "riding_12_6",
+            "result": [
+                {
+                    "horse": "Gripoil",
+                    "position": 1,
+                    "temps": "0"
+                },
+                {
+                    "horse": "Tornado",
+                    "position": 2,
+                    "temps": 0.0746
+                },
+                {
+                    "horse": "Prince Noir",
+                    "position": 3,
+                    "temps": 0.5535
+                },
+                {
+                    "horse": "Hidalgo",
+                    "position": 4,
+                    "temps": 1.1799
+                },
+                {
+                    "horse": "Spirit",
+                    "position": 5,
+                    "temps": 2.0196
+                },
+                {
+                    "horse": "Philosophy",
+                    "position": 6,
+                    "temps": 2.8517
+                },
+                {
+                    "horse": "Jappeloup",
+                    "position": 7,
+                    "temps": 3.3279
+                },
+                {
+                    "horse": "Yakari",
+                    "position": 8,
+                    "temps": 3.954
+                },
+                {
+                    "horse": "Flicka",
+                    "position": 9,
+                    "temps": 4.8489
+                },
+                {
+                    "horse": "Seabiscuit",
+                    "position": 10,
+                    "temps": 5.6362
+                }
+            ]
+        },
+        {
+            "name": "riding_12_7",
+            "result": [
+                {
+                    "horse": "Spirit",
+                    "position": 1,
+                    "temps": "0"
+                },
+                {
+                    "horse": "Philosophy",
+                    "position": 2,
+                    "temps": 0.0291
+                },
+                {
+                    "horse": "Tornado",
+                    "position": 3,
+                    "temps": 0.6924
+                },
+                {
+                    "horse": "Hidalgo",
+                    "position": 4,
+                    "temps": 1.4082
+                },
+                {
+                    "horse": "Yakari",
+                    "position": 5,
+                    "temps": 2.1696
+                },
+                {
+                    "horse": "Jappeloup",
+                    "position": 6,
+                    "temps": 2.3758
+                },
+                {
+                    "horse": "Seabiscuit",
+                    "position": 7,
+                    "temps": 2.6894
+                },
+                {
+                    "horse": "Prince Noir",
+                    "position": 8,
+                    "temps": 3.603
+                },
+                {
+                    "horse": "Gripoil",
+                    "position": 9,
+                    "temps": 4.3961
+                },
+                {
+                    "horse": "Flicka",
+                    "position": 10,
+                    "temps": 4.7199
+                }
+            ]
+        },
+        {
+            "name": "riding_12_8",
+            "result": [
+                {
+                    "horse": "Flicka",
+                    "position": 1,
+                    "temps": "0"
+                },
+                {
+                    "horse": "Yakari",
+                    "position": 2,
+                    "temps": 0.6604
+                },
+                {
+                    "horse": "Gripoil",
+                    "position": 3,
+                    "temps": 0.7137
+                },
+                {
+                    "horse": "Spirit",
+                    "position": 4,
+                    "temps": 1.2078
+                },
+                {
+                    "horse": "Jappeloup",
+                    "position": 5,
+                    "temps": 1.5956
+                },
+                {
+                    "horse": "Prince Noir",
+                    "position": 6,
+                    "temps": 1.6796
+                },
+                {
+                    "horse": "Tornado",
+                    "position": 7,
+                    "temps": 1.881
+                },
+                {
+                    "horse": "Philosophy",
+                    "position": 8,
+                    "temps": 2.6272
+                },
+                {
+                    "horse": "Seabiscuit",
+                    "position": 9,
+                    "temps": 2.9824
+                },
+                {
+                    "horse": "Hidalgo",
+                    "position": 10,
+                    "temps": 3.2583
+                }
+            ]
+        }
+    ]
+}
